@@ -1,5 +1,9 @@
 # 推荐书籍
 
+## JavaScript
+
+- [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
+
 ## Java
 
 - [Java核心技术(卷1):基础知识(原书第9版)](http://www.amazon.cn/dp/B00G9KF4JC)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容）
