@@ -3,6 +3,7 @@
 ## JavaScript
 
 - [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
+- [JavaScript设计模式](http://product.dangdang.com/20511558.html)
 
 ## Java
 
