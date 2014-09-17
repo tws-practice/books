@@ -20,3 +20,9 @@
 
 - [敏捷软件开发(原则模式与实践)](http://www.amazon.cn/dp/B00116MMA8)
 - [领域驱动设计:软件核心复杂性应对之道](http://www.amazon.cn/dp/B004BA21U2)
+
+## 思想
+
+- [程序员修炼之道:从小工到专家](http://www.amazon.cn/dp/B004GV08CY)
+- [程序员的思维修炼:开发认知潜能的九堂课](http://www.amazon.cn/dp/B004GCCAFQ)
+- [高效程序员的45个习惯:敏捷开发修炼之道](http://www.amazon.cn/dp/B0033WSFAO)
