@@ -19,3 +19,4 @@
 ## 设计
 
 - [敏捷软件开发(原则模式与实践)](http://www.amazon.cn/dp/B00116MMA8)
+- [领域驱动设计:软件核心复杂性应对之道](http://www.amazon.cn/dp/B004BA21U2)
