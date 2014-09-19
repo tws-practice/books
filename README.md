@@ -13,6 +13,13 @@
 - [重构与模式(修订版)](http://www.amazon.cn/dp/B00A9YD7A2)
 - [代码整洁之道](http://www.amazon.cn/dp/B0031M9GHC)
 
+## Ruby
+
+- [图灵程序设计丛书:Ruby基础教程(第4版)](http://www.amazon.cn/dp/B00MQPU5BG)
+- [重构(Ruby版)](http://www.amazon.cn/dp/B003KRPG04)
+- [Ruby元编程](http://www.amazon.cn/dp/B0073APSCK)（需要进一步提高Ruby水平时阅读，且国外已发行该书的最新版本）
+- [Ruby on Rails Tutorial 原书第 2 版（涵盖 Rails 4）](http://railstutorial-china.org)
+
 ## 测试驱动开发
 
 - [测试驱动开发:实战与模式解析](http://www.amazon.cn/dp/B00EYV9KLG)
