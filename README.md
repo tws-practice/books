@@ -7,6 +7,8 @@
 
 ## Java
 
+- [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+- [Head First Java(中文版)(第2版)](http://www.amazon.cn/dp/B0011ESWGI)（如果你看不懂《The Java™ Tutorials》和《Java核心技术》的话，请看这本书）
 - [Java核心技术(卷1):基础知识(原书第9版)](http://www.amazon.cn/dp/B00G9KF4JC)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容）
 - [Java核心技术·卷2:高级特性(原书第9版)](http://www.amazon.cn/dp/B00IK7SM6O)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容）
 - [重构:改善既有代码的设计](http://www.amazon.cn/dp/B003BY6PLK)
