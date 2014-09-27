@@ -15,6 +15,19 @@
 - [重构与模式(修订版)](http://www.amazon.cn/dp/B00A9YD7A2)
 - [代码整洁之道](http://www.amazon.cn/dp/B0031M9GHC)
 
+### Maven
+
+- [Maven实战](http://www.amazon.cn/dp/B004CLZ7BA)
+
+### Spring
+
+- [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/)（优先推荐，官方文档，版本同步更新，可选择不同文档格式阅读）
+- [Spring攻略(第2版)](http://www.amazon.cn/dp/B007HWLYRM)（如果阅读官方文档有困难，可以看此书，只是版本是Spring 3.x）
+
+### Hibernate
+
+- [Hibernate Getting Started Guide](http://docs.jboss.org/hibernate/orm/4.2/quickstart/en-US/html/index.html)
+
 ## Ruby
 
 - [图灵程序设计丛书:Ruby基础教程(第4版)](http://www.amazon.cn/dp/B00MQPU5BG)
