@@ -19,6 +19,10 @@
 
 - [Maven实战](http://www.amazon.cn/dp/B004CLZ7BA)
 
+### Gradle
+
+- [Gradle Documentation](http://www.gradle.org/documentation)
+
 ### Spring
 
 - [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/)（优先推荐，官方文档，版本同步更新，可选择不同文档格式阅读）
