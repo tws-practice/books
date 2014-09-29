@@ -17,7 +17,8 @@
 
 ### Maven
 
-- [Maven实战](http://www.amazon.cn/dp/B004CLZ7BA)
+- [Maven Getting Started Guide](http://maven.apache.org/guides/getting-started/)
+- [Maven实战](http://www.amazon.cn/dp/B004CLZ7BA)（如果看不懂官方文档，可以看此书）
 
 ### Gradle
 
