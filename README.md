@@ -11,13 +11,24 @@
 
 ## Java
 
+### 入门
+
 - [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
-- [Head First Java(中文版)(第2版)](http://www.amazon.cn/dp/B0011ESWGI)（如果你看不懂《The Java™ Tutorials》和《Java核心技术》的话，请看这本书）
-- [Java核心技术(卷1):基础知识(原书第9版)](http://www.amazon.cn/dp/B00G9KF4JC)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容，对API的讲解请快速浏览，建立思维索引，以后用到的时候再去查在线文档）
-- [Java核心技术·卷2:高级特性(原书第9版)](http://www.amazon.cn/dp/B00IK7SM6O)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容，对API的讲解请快速浏览，建立思维索引，以后用到的时候再去查在线文档）
-- [新手学Java 7 编程(第5版)](http://www.amazon.cn/dp/B0098WAJ2K)
+- [Head First Java(中文版)(第2版)](http://www.amazon.cn/dp/B0011ESWGI)（如果你看不懂《The Java™ Tutorials》和《新手学Java 7编程》的话，请看这本书）
+- [新手学Java 7编程(第5版)](http://www.amazon.cn/dp/B0098WAJ2K)
+
+### 工具书
+
+- [Java完全参考手册(第8版)](http://www.amazon.cn/dp/B009O49XPQ)（和《Java核心技术》二选一）
+
+以下两本书在阅读时请忽略有关C++部分的注释和有关图形用户界面的内容，对API的讲解请快速浏览，建立思维索引，以后用到的时候再去查在线文档：
+- [Java核心技术(卷1):基础知识(原书第9版)](http://www.amazon.cn/dp/B00G9KF4JC)
+- [Java核心技术·卷2:高级特性(原书第9版)](http://www.amazon.cn/dp/B00IK7SM6O)
+
+### 提高
 
 - [重构:改善既有代码的设计](http://www.amazon.cn/dp/B003BY6PLK)
+- [敏捷软件开发(原则模式与实践)](http://www.amazon.cn/dp/B00116MMA8)
 - [重构与模式(修订版)](http://www.amazon.cn/dp/B00A9YD7A2)
 - [代码整洁之道](http://www.amazon.cn/dp/B0031M9GHC)
 
@@ -41,9 +52,17 @@
 
 ## Ruby
 
+### 入门
+
 - [图灵程序设计丛书:Ruby基础教程(第4版)](http://www.amazon.cn/dp/B00MQPU5BG)
+
+### 提高
+
 - [重构(Ruby版)](http://www.amazon.cn/dp/B003KRPG04)
 - [Ruby元编程](http://www.amazon.cn/dp/B0073APSCK)（需要进一步提高Ruby水平时阅读，且国外已发行该书的最新版本）
+
+### Ruby on Rails
+
 - [Ruby on Rails Tutorial 原书第 2 版（涵盖 Rails 4）](http://railstutorial-china.org)
 
 ## 测试驱动开发
@@ -56,7 +75,6 @@
 
 ## 设计
 
-- [敏捷软件开发(原则模式与实践)](http://www.amazon.cn/dp/B00116MMA8)
 - [领域驱动设计:软件核心复杂性应对之道](http://www.amazon.cn/dp/B004BA21U2)
 
 ## 思想
