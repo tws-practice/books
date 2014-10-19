@@ -15,7 +15,7 @@
 - [Head First Java(中文版)(第2版)](http://www.amazon.cn/dp/B0011ESWGI)（如果你看不懂《The Java™ Tutorials》和《Java核心技术》的话，请看这本书）
 - [Java核心技术(卷1):基础知识(原书第9版)](http://www.amazon.cn/dp/B00G9KF4JC)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容，对API的讲解请快速浏览，建立思维索引，以后用到的时候再去查在线文档）
 - [Java核心技术·卷2:高级特性(原书第9版)](http://www.amazon.cn/dp/B00IK7SM6O)（阅读时请忽略有关C++部分的注释和有关图形用户界面的内容，对API的讲解请快速浏览，建立思维索引，以后用到的时候再去查在线文档）
-- [新手学Java 7 编程(第5版)](http://search.dangdang.com/?key=%D0%C2%CA%D6%D1%A7Java7)
+- [新手学Java 7 编程(第5版)](http://www.amazon.cn/dp/B0098WAJ2K/ref=cm_sw_r_qz_2_dp_aH0qub12BTG8C)
 
 - [重构:改善既有代码的设计](http://www.amazon.cn/dp/B003BY6PLK)
 - [重构与模式(修订版)](http://www.amazon.cn/dp/B00A9YD7A2)
