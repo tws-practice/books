@@ -44,7 +44,7 @@
 ### Spring
 
 - [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/)（优先推荐，官方文档，版本同步更新，可选择不同文档格式阅读）
-- [Spring实战(第3版)](http://www.amazon.cn/dp/B00CY6UD2I)（如果阅读官方文档有困难，可以看此书，只是版本是Spring 3.x）
+- [Spring实战(第3版)](http://www.amazon.cn/dp/B00CY6UD2I)（如果阅读官方文档有困难，可以看此书，只是版本是Spring 3.0）
 
 ### Hibernate
 
