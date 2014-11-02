@@ -63,7 +63,7 @@
 
 ### Ruby on Rails
 
-- [Ruby on Rails Tutorial 原书第 2 版（涵盖 Rails 4）](http://railstutorial-china.org)
+- [Ruby on Rails Tutorial 中文版](http://railstutorial-china.org/read/)
 
 ## 测试驱动开发
 
