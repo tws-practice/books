@@ -4,6 +4,10 @@
 
 - [Linux 命令行](http://billie66.github.io/TLCL/)
 
+## Git
+
+- [Pro Git（中文版）](http://git.oschina.net/progit/)
+
 ## JavaScript
 
 - [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
