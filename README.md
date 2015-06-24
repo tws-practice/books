@@ -8,6 +8,10 @@
 
 - [Pro Git（中文版）](http://git.oschina.net/progit/)
 
+## Http
+
+- [HTTP 下午茶](http://book.haoduoshipin.com/tealeaf-http/#chinese)
+
 ## JavaScript
 
 - [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
