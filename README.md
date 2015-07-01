@@ -35,6 +35,7 @@
 
 ### 提高
 
+- [Refactoring](https://sourcemaking.com/refactoring)
 - [重构:改善既有代码的设计](http://www.amazon.cn/dp/B003BY6PLK)
 - [敏捷软件开发(原则模式与实践)](http://www.amazon.cn/dp/B00116MMA8)
 - [重构与模式(修订版)](http://www.amazon.cn/dp/B00A9YD7A2)
