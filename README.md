@@ -16,6 +16,7 @@
 
 - [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
 - [JavaScript设计模式](http://product.dangdang.com/20511558.html)
+- [JavaScript权威指南](https://www.amazon.cn/gp/product/B007VISQ1Y/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 
 ## Chrome Developer Tools
 
